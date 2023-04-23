@@ -10,7 +10,7 @@ Set up a ticketing system from scratch. Added users, departments, configured and
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
