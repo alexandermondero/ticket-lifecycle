@@ -38,6 +38,6 @@ This is an example of an open ticket which shows the ticket information. This in
 <img src="https://i.imgur.com/vvMN6ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Each ticket has some type of history or notes that you can refer to if needed. This is very helpful to see what necessary steps has been used to fulfill the completion of the ticket. This also shows any additional notes that may be of importance as well.
+Each ticket has some type of history or notes that you can refer to if needed. This is very helpful to see what necessary steps have been used to fulfill the completion of the ticket. This also shows any additional notes that may be of importance as well.
 </p>
 <br />
